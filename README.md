@@ -150,3 +150,47 @@ Elementlari:
 Shart:
 
     7 ta obyekt yarating.
+    Narxi 2 mln so‘mdan yuqori va turi klaviatura bo‘lgan musiqa asboblarini chiqarib bering.
+
+3-  masala  ⇒
+  Xodimlarni boshqarish (Manager) class yarating.
+
+Elementlari:
+
+    Xodim ismi;
+    Lavozimi;
+    Ish vaqti (soat);
+    Ish haqi.
+
+Shart:
+
+    7 ta obyekt yarating.
+    Ish vaqti 40 soatdan yuqori va lavozimi "Rahbar" bo‘lgan xodimlarni ro‘yxatga oling.
+
+4-  masala ⇒ 
+Talabalar o'rtasida stipendiya tayinlash haqida masala yarating.
+
+Class elementi quyidagilar bo'lsin:
+
+    Talaba ismi;
+    O'rtacha bahosi;
+    Davlat granti yoki kontrakt asosida o'qishi;
+    Stipendiya miqdori.
+
+Class ichida kiritish va chiqarish methodlarini yozing. 5 ta obyekt yarating va faqat davlat grantida o'qiydigan va o'rtacha bahosi 85 dan yuqori bo'lgan talabalar stipendiya miqdorini chiqaring.
+
+5  - masala  ⇒
+
+Vaqt nomli klassda soat, minut va sekund berilgan.
+
+Ya'na 3ta klass e'lon qiling va ular Vaqt klassiga bog'liq bo'lishi kerak:
+
+Hour nomli klass soatni 5ga oshiradi,
+
+Minut nomli klass minutni 5ga oshiradi va
+
+Sekund nomli klass sekundni 5ga oshiradi.
+
+O’zgargan vaqtni chiqaring.
+
+
